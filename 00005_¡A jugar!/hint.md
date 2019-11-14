@@ -1,1 +1,1 @@
-No te olvides el caso borde al momento de repetir.
+No te olvides que `Pasar a buscar por el barrio` recorre 4 casilleros.
